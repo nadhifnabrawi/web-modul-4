@@ -1,0 +1,15 @@
+# Root gitignore
+src/vendor/
+src/node_modules/
+src/public/storage
+src/public/build
+src/storage/*.key
+src/.env
+src/.env.backup
+src/.env.production
+src/auth.json
+src/npm-debug.log
+src/yarn-error.log
+.idea/
+.vscode/
+*.log
